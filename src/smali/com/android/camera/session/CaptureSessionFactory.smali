@@ -1,0 +1,8 @@
+.class public interface abstract Lcom/android/camera/session/CaptureSessionFactory;
+.super Ljava/lang/Object;
+.source "CaptureSessionFactory.java"
+
+
+# virtual methods
+.method public abstract createNewSession$51666RRD5TGMSP3IDTKM8BR3C5MMASJ15TPMASRJD5NMSBQ3C5O78TBICL9MASRJD5NMSJB1DPGMEPBI7D666RRD5TGMSP3IDTKM8BR3C5MMASJ15TPMASRJD5NMSBQJCLPN6QBFDP76UT39CPKMASHR9HL62TJ15TM62RJ75T9N8SJ9DPJJMIICC5N68SJFD5I2UR3FCDGN8QBFDONKORR3C5Q6IRRE7CKKOORFDKNM2RJ4E9NMIP1FCDGMQPBIC4NN6PBJEDKMURHF8DGN0T3LE9IL6PBJEDKMURHR(Lcom/android/camera/session/CaptureSessionManager;Lcom/android/camera/session/SessionNotifier;Ljava/lang/String;JLandroid/location/Location;)Lcom/android/camera/session/StackableSession;
+.end method

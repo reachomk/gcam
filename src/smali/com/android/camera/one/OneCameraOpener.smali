@@ -1,0 +1,8 @@
+.class public interface abstract Lcom/android/camera/one/OneCameraOpener;
+.super Ljava/lang/Object;
+.source "OneCameraOpener.java"
+
+
+# virtual methods
+.method public abstract open$51666RRD5TJMURR7DHIIUOBECHP6UQB45TGN0S3J5THM2RB5E9GIUP35EPKM6P9F8DGMQPBIC54M8EQCCDNMQBR7DTNMER355TGMSP3IDTKM8BR1E1O76BR3C5MMASJ15TGN6UBECCNL6OB6CL1MORRJCLGM4R357D666RRD5TGMSP3IDTKM8BR3C5MMASJ15TNMSP9F9TN6AGR1DLIN4OA4CLO6ARJ4CLN66QB5ED6MUP3LDHIJMJ33DTMIUOBECHP6UQB45THM2RB5E9GIURRECKNKURJ58DGMQPBIC51M2S3KELP6AKR5EHQ6IRJ77CKKOORFDKNM2RJ4E9NMIP1FCDGMQPBIC4NMURJ55T7MSPA3C5MMASJ17C______(Lcom/google/android/apps/camera/device/CameraId;Lcom/google/android/apps/camera/async/SafeCloseable;Lcom/google/android/gms/internal/zzahv;Lcom/android/camera/one/OneCameraCaptureSetting;)Lcom/android/camera/one/OneCamera;
+.end method
